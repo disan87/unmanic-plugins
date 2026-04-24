@@ -1,0 +1,13 @@
+{
+    "id": "add_eac3_track",
+    "name": "Add E-AC3 Track for Fire TV / LG OLED",
+    "author": "disan",
+    "version": "0.0.1",
+    "tags": "audio,eac3,video",
+    "description": "Fügt eine E-AC3 768k Spur zu MKVs mit TrueHD/DTS-HD/DTS:X/PCM/FLAC hinzu. Deutsche E-AC3 wird Default.",
+    "icon": "",
+    "priorities": {
+        "on_library_management_file_test": 0,
+        "on_worker_process": 0
+    }
+}
